@@ -6,4 +6,4 @@ appstore上的动物快跑游戏，类似赌马类游戏，每局比赛开始前
 
 里面的回调全部用通知处理，松耦合，没有代理，没有block。
 
-WWWW(http://www.baidu.com)WWWW
+
